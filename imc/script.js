@@ -6,9 +6,7 @@ function calculate(){
         alert("[ERRO] Campo não preenchido")
     }else if (weight.value <= 0){
         alert("[ERRO] Preencha o campo de peso de forma correta")
-    }else if (height.value <= 50){
-      alert("[ERRO] Altura inválida, insira um valor acima de 50cm")
-    }else{
+       }else{
         var imc = weight.value/(height.value/100)**2
         if (imc < 17){
             response.innerHTML = `Seu imc é de ${imc.toFixed(2)} e você está muito abaixo do peso`    
