@@ -13,4 +13,4 @@ Um classico projeto front-end de uma calculadora de indice de massa corporal (IM
 
 ## 🔗Acesse o projeto online
 
-<a href="https://calculadora-imc-lilac-two.vercel.app" target="__blank">Clique aqui</a>
+<a href="https://calculadora-imc-lilac-two.vercel.app" target="_blank">Clique aqui</a>
