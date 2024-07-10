@@ -1,7 +1,7 @@
 # 🔥 Calculadora de IMC
 
 ## 📝Descrição
-Um classico projeto front-end de uma calculadora de indice de massa corporal (IMC).
+Um clássico projeto front-end de uma calculadora de indice de massa corporal (IMC).
 
 ## 📦 Tecnologias usadas:
 
